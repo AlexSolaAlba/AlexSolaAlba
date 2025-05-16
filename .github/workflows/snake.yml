@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecuta todos los días
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -29,3 +29,5 @@ jobs:
           author_email: github-actions@github.com
           message: "generate snake animation"
           add: "output/github-contribution-grid-snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}

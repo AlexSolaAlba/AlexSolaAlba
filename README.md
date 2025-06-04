@@ -43,9 +43,7 @@
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/TU_USUARIO)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web?logo=google-chrome&style=for-the-badge)](https://tusitio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/alejandro-sola)
 
 ---
 
